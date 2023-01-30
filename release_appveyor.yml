@@ -33,7 +33,7 @@ deploy:
   release: v$(appveyor_build_version)
   description: https://www.nuget.org/packages/SQLite.CodeFirst/
   auth_token:
-    secure: /EbrWy9O9cuWEzo1mZZFJ/v6yonU4k5HWKYXsTKdsP72o1M7b23pHcsczVVvIRFGcrNAh9jIh8+e01zA8HgmlVVebzBVe1pBN/XJb+Q71gG6XvPu0SHQPSm+M+jqgbkI
+    secure: 2SzpFWRBbTtAva7+HO0tycmEh6CJDBTLYIDXNEAcbkQdWq/ATFA83I2fAZGeKg7R
   artifact: Assemblies,NuPkg
   draft: true
   on:
